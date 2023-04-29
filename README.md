@@ -28,7 +28,6 @@ After cloning the repository, navigate to the project directory and run the foll
 
 ```
 yarn install
-
 ```
 
 ## Step 3: Run the project
